@@ -11,7 +11,7 @@ public class Login extends Parkir{
         login.put("raihan", "raihandafaari");
         login.put("dafa", "dafaariraihan");
     
-        System.out.println("oooooooooo LOGIN oooooooooooo");
+        System.out.println("=====HALAMAN LOGIN======");
         
         Scanner scannerInput = new Scanner(System.in);
     
